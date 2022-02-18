@@ -2,7 +2,7 @@
 //  FlixUITestsLaunchTests.swift
 //  FlixUITests
 //
-//  Created by Daisy Rocha on 2/8/22.
+//  Created by Daisy Rocha on 2/17/22.
 //
 
 import XCTest

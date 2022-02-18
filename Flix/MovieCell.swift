@@ -2,7 +2,7 @@
 //  MovieCell.swift
 //  Flix
 //
-//  Created by Daisy Rocha on 2/8/22.
+//  Created by Daisy Rocha on 2/17/22.
 //
 
 import UIKit
@@ -12,6 +12,7 @@ class MovieCell: UITableViewCell {
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var synopsisLabel: UILabel!
     @IBOutlet weak var posterView: UIImageView!
+    
     
     
     override func awakeFromNib() {
