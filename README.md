@@ -26,7 +26,6 @@ For some reason I kept getting UI errors that I could not get help on. I had to 
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -42,6 +41,11 @@ For some reason I kept getting UI errors that I could not get help on. I had to 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72002539/153135148-22ad17a2-c33a-4d17-9764-b4c37ee513e0.gif)
 
 ![](https://i.imgur.com/tlZzXlT.gif)
+
+GIF of app running on real device below:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72002539/154728931-f5267d12-abc3-4116-a15c-06c1d68d77dd.gif)
+
+https://i.imgur.com/EkC1Q37.gif
 
 
 
