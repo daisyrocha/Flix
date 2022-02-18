@@ -16,9 +16,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72002539/154631683-d08b0321-8feb-4b57-85cc-feca230486fe.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72002539/154725940-f2a1d374-92bb-4159-8584-566111707f6a.gif)
 
-![](https://i.imgur.com/yCMRJyM.gif)
+
+https://i.imgur.com/SE1fGmQ.gif
 
 ### Notes
 For some reason I kept getting UI errors that I could not get help on. I had to restart the entire project beginning from Unit 1. Once getting to a certain point in Unit 2, I kept having the same issue, even after carefully following the video. I had to comment out the code, then uncomment it and it worked after that.
