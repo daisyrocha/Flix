@@ -43,6 +43,8 @@ For some reason I kept getting UI errors that I could not get help on. I had to 
 ![](https://i.imgur.com/tlZzXlT.gif)
 
 GIF of app running on real device below:
+
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72002539/154728931-f5267d12-abc3-4116-a15c-06c1d68d77dd.gif)
 
 https://i.imgur.com/EkC1Q37.gif
